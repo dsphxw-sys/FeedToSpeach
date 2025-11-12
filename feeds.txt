@@ -1,0 +1,4 @@
+https://foro.elhacker.net/.xml.html;sa=news;board=34;limit=10;type=rss
+https://feeds.feedburner.com/TheHackersNews?format=xml
+https://www.schneier.com/tag/cybersecurity/feed/
+https://krebsonsecurity.com/feed/
